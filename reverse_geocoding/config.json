@@ -4,5 +4,5 @@
     "entry_file": "reverse_geocoding.py",
     "name": "reverse_geocoding",
     "description": "Reverse Geocoding applied to geocoordinates to retrieve the string address of the place",
-    "column_type": "GEOCOORDINATE" // Available values: "STRING" | "DATETIME" | "TIME" | "EMAIL" | "URL" | "FLOAT" | "INTEGER" | "DATE" | "GEOCOORDINATE"
+    "column_type": "GEOCOORDINATE"
 }
